@@ -1,0 +1,20 @@
+Drama: 4761 films
+Comedy: 3793 films
+Thriller: 2908 films
+Action: 2385 films
+Romance: 1712 films
+Horror: 1637 films
+Adventure: 1471 films
+Crime: 1355 films
+Family: 1231 films
+Science Fiction: 1230 films
+Fantasy: 916 films
+Mystery: 810 films
+Animation: 699 films
+Documentary: 520 films
+Music: 408 films
+History: 334 films
+War: 270 films
+Foreign: 188 films
+TV Movie: 167 films
+Western: 165 films
